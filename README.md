@@ -1,5 +1,5 @@
 # DasLLM
-This is a custom llm hosted on my computer and exposed an API to be used by agent. 
+This is a custom llm hosted on my computer and exposed an API to be used by agent. Later on, this LLM will be used for Agents. 
 
 ```
 | Process for self hosting |
