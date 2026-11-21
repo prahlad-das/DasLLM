@@ -38,3 +38,5 @@ This is a custom llm hosted on my computer and exposed an API to be used by agen
 
                                                                                                                                                        
 ```
+(Download and put model in LLM/Model repo according to download_model.py and install requirements.txt, model not included in git due to size)
+Latency observed: 1m to 4m
