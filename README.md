@@ -1,5 +1,5 @@
-# DasLLM
-This is a custom llm hosted on my computer and exposed an API to be used by agent. Later on, this LLM will be used for Agents. 
+# DasLLM - Self hosted
+This is a custom llm hosted on my computer and exposed an API. Later on, this LLM will be used for Agents. 
 
 ```
 | Process for self hosting |
@@ -199,3 +199,5 @@ print(data["content"])
 
 ### Scaling
 ![Scaling](scaling.svg)
+
+### Stack: Python, FastAPI, transformers, torch
