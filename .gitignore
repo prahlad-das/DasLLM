@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+API/__pycache__
+API/.venv
+API/LLM/__pycache__
+API/LLM/Model
