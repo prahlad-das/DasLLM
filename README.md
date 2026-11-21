@@ -197,3 +197,5 @@ print(data["content"])
 3. **Thinking Separation**:
    After generation, the token stream is analyzed for the closing thinking token `151668` (`</think>`). The text before this token is decoded as `thinking_content`, and the text following it is returned as `content`.
 
+### Scaling
+![Scaling](scaling.svg)
